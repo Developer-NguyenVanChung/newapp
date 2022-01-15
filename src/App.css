@@ -36,3 +36,58 @@
     transform: rotate(360deg);
   }
 }
+
+/* HEADER OF PAGE */
+.pageHeader{
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+  
+}
+.pageHeader>h1{
+  margin: 0;
+  text-align: center;
+  padding: 18px 0px;
+}
+
+/* Main content */
+.mainContent{
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid red;
+  min-height: 70vh;
+}
+.mainContent>h1{
+  color: blue;
+}
+
+
+/* FOOTER OF PAGE */
+.footer{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+/* appCounter */
+.appCounter{
+  border: 1px solid red;
+  margin: 12px auto;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
